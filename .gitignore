@@ -1,0 +1,20 @@
+# Large model checkpoints
+checkpoints/
+
+# Generated outputs and comparison images
+output/
+
+# Jupyter notebooks checkpoints and metadata
+.ipynb_checkpoints/
+
+# Python compilation and cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environment / IDE settings
+.vscode/
+.idea/
+.venv/
+venv/
+env/
